@@ -62,3 +62,4 @@ def main(position, location):
 main('machine learning engineer','new york ny')
 main('software developer','new york ny')
 main('front end developer','new york ny')
+main('full stack developer','')
